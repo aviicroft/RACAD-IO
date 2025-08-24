@@ -7,7 +7,7 @@ import { programService, departments } from "@/lib/services/program-service";
 
 // Option 1: Perplexity AI (Recommended - Free tier available)
 const USE_PERPLEXITY = true;
-const PERPLEXITY_API_KEY = "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";
+const PERPLEXITY_API_KEY = "pplx-YOUR_API_KEY";
 
 // Option 2: OpenAI (Paid service)
 const USE_OPENAI = false;
