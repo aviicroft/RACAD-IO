@@ -1,0 +1,1635 @@
+{
+    "Commerce": [
+        {
+            "name": "B.Com",
+            "overview": "B.Com is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com Computer Applications",
+            "overview": "B.Com Computer Applications is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com Computer Applications includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com Professional Accounting",
+            "overview": "B.Com Professional Accounting is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com Professional Accounting includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com Business Process Services",
+            "overview": "B.Com Business Process Services is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com Business Process Services includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com Corporate Secretaryship",
+            "overview": "B.Com Corporate Secretaryship is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com Corporate Secretaryship includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com Information Technology",
+            "overview": "B.Com Information Technology is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com Information Technology includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com Banking and Insurance",
+            "overview": "B.Com Banking and Insurance is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com Banking and Insurance includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com Accounting and Finance",
+            "overview": "B.Com Accounting and Finance is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com Accounting and Finance includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com Financial Services",
+            "overview": "B.Com Financial Services is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com Financial Services includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Com International Business",
+            "overview": "B.Com International Business is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Com International Business includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "M.Com",
+            "overview": "M.Com is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of M.Com includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "M.Com Computer Applications",
+            "overview": "M.Com Computer Applications is designed to provide students with knowledge and skills relevant to the field of Commerce. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of M.Com Computer Applications includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        }
+    ],
+    "Fashion & Visual Arts": [
+        {
+            "name": "B.Sc Costume Design and Fashion",
+            "overview": "B.Sc Costume Design and Fashion is designed to provide students with knowledge and skills relevant to the field of Fashion & Visual Arts. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Sc Costume Design and Fashion includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Sc Visual Communication (Electronic Media)",
+            "overview": "B.Sc Visual Communication (Electronic Media) is designed to provide students with knowledge and skills relevant to the field of Fashion & Visual Arts. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Sc Visual Communication (Electronic Media) includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "MA Journalism and Mass Communication",
+            "overview": "MA Journalism and Mass Communication is designed to provide students with knowledge and skills relevant to the field of Fashion & Visual Arts. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of MA Journalism and Mass Communication includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        }
+    ],
+    "Management": [
+        {
+            "name": "BBA Computer Applications",
+            "overview": "BBA Computer Applications is designed to provide students with knowledge and skills relevant to the field of Management. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of BBA Computer Applications includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "BBA Logistics",
+            "overview": "BBA Logistics is designed to provide students with knowledge and skills relevant to the field of Management. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of BBA Logistics includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "BBA Aviation Management",
+            "overview": "BBA Aviation Management is designed to provide students with knowledge and skills relevant to the field of Management. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of BBA Aviation Management includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "MBA Innovation Entrepreneurship & Venture Development",
+            "overview": "MBA Innovation Entrepreneurship & Venture Development is designed to provide students with knowledge and skills relevant to the field of Management. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of MBA Innovation Entrepreneurship & Venture Development includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "MBA",
+            "overview": "MBA is designed to provide students with knowledge and skills relevant to the field of Management. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of MBA includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "M.A Public Administration",
+            "overview": "M.A Public Administration is designed to provide students with knowledge and skills relevant to the field of Management. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of M.A Public Administration includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        }
+    ],
+    "English & Humanities": [
+        {
+            "name": "BA English Literature",
+            "overview": "BA English Literature is designed to provide students with knowledge and skills relevant to the field of English & Humanities. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of BA English Literature includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "MA English Literature",
+            "overview": "MA English Literature is designed to provide students with knowledge and skills relevant to the field of English & Humanities. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of MA English Literature includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        }
+    ],
+    "Mathematics": [
+        {
+            "name": "B.Sc Mathematics",
+            "overview": "B.Sc Mathematics is designed to provide students with knowledge and skills relevant to the field of Mathematics. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Sc Mathematics includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "M.Sc Mathematics",
+            "overview": "M.Sc Mathematics is designed to provide students with knowledge and skills relevant to the field of Mathematics. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of M.Sc Mathematics includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        }
+    ],
+    "Physics": [
+        {
+            "name": "B.Sc Physics",
+            "overview": "B.Sc Physics is designed to provide students with knowledge and skills relevant to the field of Physics. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Sc Physics includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        }
+    ],
+    "Psychology": [
+        {
+            "name": "B.Sc Psychology",
+            "overview": "B.Sc Psychology is designed to provide students with knowledge and skills relevant to the field of Psychology. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Sc Psychology includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "M.Sc Applied Psychology",
+            "overview": "M.Sc Applied Psychology is designed to provide students with knowledge and skills relevant to the field of Psychology. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of M.Sc Applied Psychology includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "M.Sc Clinical Psychology",
+            "overview": "M.Sc Clinical Psychology is designed to provide students with knowledge and skills relevant to the field of Psychology. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of M.Sc Clinical Psychology includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        }
+    ],
+    "Bio-Science": [
+        {
+            "name": "B.Sc Biotechnology",
+            "overview": "B.Sc Biotechnology is designed to provide students with knowledge and skills relevant to the field of Bio-Science. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Sc Biotechnology includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "B.Sc Microbiology",
+            "overview": "B.Sc Microbiology is designed to provide students with knowledge and skills relevant to the field of Bio-Science. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of B.Sc Microbiology includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "M.Sc Biotechnology",
+            "overview": "M.Sc Biotechnology is designed to provide students with knowledge and skills relevant to the field of Bio-Science. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of M.Sc Biotechnology includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        },
+        {
+            "name": "M.Sc Microbiology",
+            "overview": "M.Sc Microbiology is designed to provide students with knowledge and skills relevant to the field of Bio-Science. The curriculum balances theoretical foundations with practical applications.",
+            "core_subjects": [
+                "Subject 1 relevant to course",
+                "Subject 2 relevant to course",
+                "Subject 3 relevant to course",
+                "Electives/Practical/Project Work"
+            ],
+            "skills_gained": [
+                "Analytical Thinking",
+                "Communication Skills",
+                "Domain-specific Technical Knowledge",
+                "Problem Solving",
+                "Industry-specific Skills"
+            ],
+            "tools_and_technologies": [
+                "Relevant Software Tools",
+                "Statistical Packages",
+                "Industry-oriented Applications",
+                "Project/Case Study Tools"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Entry-level positions in core industries",
+                    "Research/Teaching roles",
+                    "Corporate or Public Sector Jobs",
+                    "Entrepreneurship"
+                ],
+                "international": [
+                    "Global career opportunities in specialized domains",
+                    "Research fellowships",
+                    "Corporate placements abroad"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹2.5–4.5 LPA",
+                    "mid_level": "₹6–12 LPA",
+                    "senior_level": "₹15–25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$35,000–$55,000 per year",
+                    "mid_level": "$70,000–$100,000 per year",
+                    "senior_level": "$120,000+ per year"
+                }
+            },
+            "future_scope": "The future scope of M.Sc Microbiology includes opportunities in research, higher education, professional certifications, and diverse career paths in both domestic and global industries."
+        }
+    ]
+}

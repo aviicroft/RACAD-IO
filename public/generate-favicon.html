@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favicon Generator Instructions</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .step { margin: 20px 0; padding: 15px; border-left: 4px solid #5865F2; background: #f5f5f5; }
+        .code { background: #333; color: #fff; padding: 10px; border-radius: 5px; font-family: monospace; }
+        .note { background: #fff3cd; border: 1px solid #ffeaa7; padding: 15px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>🎯 Favicon Setup for RACAD IO</h1>
+    
+    <div class="step">
+        <h3>Current Status</h3>
+        <p>✅ SVG favicon created and configured</p>
+        <p>✅ Metadata updated in layout.tsx</p>
+        <p>⚠️ ICO favicon needs to be generated</p>
+    </div>
+
+    <div class="step">
+        <h3>Option 1: Use SVG Favicon (Recommended)</h3>
+        <p>The SVG favicon should work immediately in modern browsers. It's already configured in your layout.tsx.</p>
+        <div class="code">
+            icons: {
+                icon: [
+                    { url: '/favicon.svg', type: 'image/svg+xml' },
+                    { url: '/favicon.ico', sizes: 'any' },
+                ],
+                shortcut: '/favicon.ico',
+            }
+        </div>
+    </div>
+
+    <div class="step">
+        <h3>Option 2: Generate ICO Favicon</h3>
+        <p>To create a proper favicon.ico file:</p>
+        <ol>
+            <li>Go to <a href="https://favicon.io/" target="_blank">favicon.io</a></li>
+            <li>Upload the SVG file: <code>public/favicon.svg</code></li>
+            <li>Download the generated favicon.ico</li>
+            <li>Place it in the <code>public/</code> directory</li>
+        </ol>
+    </div>
+
+    <div class="step">
+        <h3>Option 3: Convert SVG to ICO Online</h3>
+        <p>Alternative online tools:</p>
+        <ul>
+            <li><a href="https://convertio.co/svg-ico/" target="_blank">Convertio</a></li>
+            <li><a href="https://cloudconvert.com/svg-to-ico" target="_blank">CloudConvert</a></li>
+            <li><a href="https://www.icoconverter.com/" target="_blank">ICO Converter</a></li>
+        </ul>
+    </div>
+
+    <div class="note">
+        <h4>💡 Pro Tip</h4>
+        <p>The SVG favicon should work immediately and provides better quality across different screen densities. The ICO file is mainly for older browsers and bookmark compatibility.</p>
+    </div>
+
+    <div class="step">
+        <h3>Test Your Favicon</h3>
+        <p>After setting up:</p>
+        <ol>
+            <li>Refresh your browser</li>
+            <li>Check the browser tab - you should see the college chatbot icon</li>
+            <li>Bookmark the page to test favicon in bookmarks</li>
+        </ol>
+    </div>
+</body>
+</html>

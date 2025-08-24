@@ -1,0 +1,682 @@
+{
+    "programmes": [
+        {
+            "name": "B.Sc Computer Science",
+            "overview": "A 3-year undergraduate program providing a strong foundation in computer science, programming, algorithms, operating systems, and software development.",
+            "core_subjects": [
+                "Programming (C, C++, Java, Python)",
+                "Data Structures & Algorithms",
+                "Database Management Systems (DBMS)",
+                "Operating Systems",
+                "Computer Networks",
+                "Software Engineering",
+                "Web Technologies",
+                "Cloud Computing Basics"
+            ],
+            "skills_gained": [
+                "Problem-solving and algorithmic thinking",
+                "Programming and debugging",
+                "Database design and management",
+                "System analysis",
+                "Networking concepts"
+            ],
+            "tools_and_technologies": [
+                "MySQL/PostgreSQL",
+                "Linux/Unix",
+                "Eclipse/IntelliJ",
+                "Git/GitHub",
+                "AWS/Azure Basics"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Software Developer",
+                    "System Analyst",
+                    "Database Administrator",
+                    "IT Support Engineer",
+                    "Web Developer"
+                ],
+                "international": [
+                    "Full Stack Developer",
+                    "Cloud Administrator",
+                    "System Architect",
+                    "Technical Consultant"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹3–4 LPA",
+                    "mid_level": "₹6–8 LPA",
+                    "senior_level": "₹12–20 LPA"
+                },
+                "international": {
+                    "entry_level": "$45k–60k",
+                    "mid_level": "$80k–100k",
+                    "senior_level": "$120k+"
+                }
+            },
+            "future_scope": "Growing demand due to cloud adoption, automation, and software-driven businesses. Higher studies in AI, cybersecurity, or data science can unlock better opportunities."
+        },
+        {
+            "name": "B.Sc Information Technology",
+            "overview": "Focuses on IT infrastructure, database systems, networking, and business-oriented IT solutions.",
+            "core_subjects": [
+                "Information Systems",
+                "Networking",
+                "Database Systems",
+                "Software Testing",
+                "Cloud Computing",
+                "Web Development",
+                "IT Project Management"
+            ],
+            "skills_gained": [
+                "System Administration",
+                "Networking",
+                "Database Management",
+                "Business IT Integration",
+                "Cybersecurity Basics"
+            ],
+            "tools_and_technologies": [
+                "Cisco Tools",
+                "Oracle DB",
+                "VMware",
+                "AWS",
+                "Microsoft Azure"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "IT Consultant",
+                    "System Administrator",
+                    "Network Engineer",
+                    "Technical Support Engineer"
+                ],
+                "international": [
+                    "Cloud Engineer",
+                    "Cybersecurity Analyst",
+                    "Enterprise IT Specialist"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹3–3.5 LPA",
+                    "mid_level": "₹6–9 LPA",
+                    "senior_level": "₹15+ LPA"
+                },
+                "international": {
+                    "entry_level": "$40k–55k",
+                    "mid_level": "$75k–95k",
+                    "senior_level": "$120k+"
+                }
+            },
+            "future_scope": "Critical for industries adopting digital transformation. IT skills are evergreen across finance, healthcare, and e-commerce."
+        },
+        {
+            "name": "B.Sc Computer Technology",
+            "overview": "Blends computer science and hardware, focusing on embedded systems, IoT, and hardware-software integration.",
+            "core_subjects": [
+                "Microprocessors",
+                "Computer Architecture",
+                "Embedded Systems",
+                "IoT Fundamentals",
+                "C/C++ Programming",
+                "Digital Electronics"
+            ],
+            "skills_gained": [
+                "Embedded System Development",
+                "IoT Solutions",
+                "Hardware Design",
+                "Low-level Programming"
+            ],
+            "tools_and_technologies": [
+                "Arduino",
+                "Raspberry Pi",
+                "MATLAB",
+                "Proteus",
+                "Keil µVision"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "IoT Developer",
+                    "Embedded Engineer",
+                    "Hardware Engineer"
+                ],
+                "international": [
+                    "System Programmer",
+                    "Robotics Developer",
+                    "Chip Design Engineer"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹3–4 LPA",
+                    "mid_level": "₹7–10 LPA",
+                    "senior_level": "₹15+ LPA"
+                },
+                "international": {
+                    "entry_level": "$45k–65k",
+                    "mid_level": "$90k–110k",
+                    "senior_level": "$130k+"
+                }
+            },
+            "future_scope": "With IoT, smart devices, and robotics on the rise, hardware-software integration specialists are in high demand."
+        },
+        {
+            "name": "BCA (Bachelor of Computer Applications)",
+            "overview": "A professional undergraduate course focusing on application development, software design, and business computing.",
+            "core_subjects": [
+                "Programming (Java, Python, PHP)",
+                "Web Development",
+                "Database Management",
+                "Mobile App Development",
+                "Cloud Computing"
+            ],
+            "skills_gained": [
+                "Application Development",
+                "Web & Mobile Development",
+                "Database Administration",
+                "Software Testing"
+            ],
+            "tools_and_technologies": [
+                "Android Studio",
+                "PHP/MySQL",
+                "React/Angular",
+                "GitHub"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Software Developer",
+                    "Web Developer",
+                    "App Developer",
+                    "Database Admin"
+                ],
+                "international": [
+                    "Full Stack Developer",
+                    "Cloud Developer",
+                    "Application Architect"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹3–4 LPA",
+                    "mid_level": "₹6–8 LPA",
+                    "senior_level": "₹12+ LPA"
+                },
+                "international": {
+                    "entry_level": "$45k–60k",
+                    "mid_level": "$85k–100k",
+                    "senior_level": "$120k+"
+                }
+            },
+            "future_scope": "One of the most popular IT programs in India with growing demand in startups and IT companies. A stepping stone to MCA/M.Sc."
+        },
+        {
+            "name": "B.Sc Digital and Cyber Forensic Science",
+            "overview": "Specialized course for cybercrime investigation, digital evidence handling, and cybersecurity.",
+            "core_subjects": [
+                "Cyber Forensics",
+                "Ethical Hacking",
+                "Cryptography",
+                "Cyber Laws",
+                "Malware Analysis"
+            ],
+            "skills_gained": [
+                "Digital Evidence Analysis",
+                "Penetration Testing",
+                "Network Security",
+                "Forensic Investigation"
+            ],
+            "tools_and_technologies": [
+                "EnCase",
+                "FTK",
+                "Kali Linux",
+                "Wireshark",
+                "Metasploit"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Cyber Forensic Analyst",
+                    "Security Officer",
+                    "Incident Responder",
+                    "Cybercrime Investigator"
+                ],
+                "international": [
+                    "Forensic Expert",
+                    "Penetration Tester",
+                    "Information Security Consultant"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹4–5 LPA",
+                    "mid_level": "₹8–12 LPA",
+                    "senior_level": "₹20+ LPA"
+                },
+                "international": {
+                    "entry_level": "$55k–70k",
+                    "mid_level": "$100k–130k",
+                    "senior_level": "$160k+"
+                }
+            },
+            "future_scope": "Cybersecurity is a booming field with increasing cybercrime cases worldwide. Governments and MNCs are hiring aggressively."
+        },
+        {
+            "name": "M.Sc Computer Science",
+            "overview": "Advanced 2-year postgraduate course emphasizing theoretical and practical aspects of advanced computing, AI, and research.",
+            "core_subjects": [
+                "Advanced Algorithms",
+                "Machine Learning",
+                "Artificial Intelligence",
+                "Big Data Analytics",
+                "Compiler Design",
+                "Research Methodologies"
+            ],
+            "skills_gained": [
+                "Research & Development",
+                "High-level Programming",
+                "Machine Learning Applications",
+                "Advanced Database Systems"
+            ],
+            "tools_and_technologies": [
+                "Python",
+                "R",
+                "TensorFlow",
+                "Hadoop",
+                "MATLAB"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Research Scientist",
+                    "AI Engineer",
+                    "System Architect",
+                    "Professor"
+                ],
+                "international": [
+                    "Data Scientist",
+                    "AI Specialist",
+                    "Cloud Architect"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹5–7 LPA",
+                    "mid_level": "₹10–15 LPA",
+                    "senior_level": "₹20–30 LPA"
+                },
+                "international": {
+                    "entry_level": "$65k–80k",
+                    "mid_level": "$110k–130k",
+                    "senior_level": "$160k+"
+                }
+            },
+            "future_scope": "Preferred for research roles, academia, and high-paying tech jobs in AI, ML, and data science."
+        },
+        {
+            "name": "M.Sc Information Technology",
+            "overview": "A postgraduate program focused on IT applications, cloud computing, cybersecurity, and enterprise solutions.",
+            "core_subjects": [
+                "Cloud Computing",
+                "Enterprise Applications",
+                "Cybersecurity",
+                "Data Warehousing",
+                "IT Strategy"
+            ],
+            "skills_gained": [
+                "IT Management",
+                "Cloud Administration",
+                "Cybersecurity Expertise",
+                "Project Leadership"
+            ],
+            "tools_and_technologies": [
+                "AWS",
+                "Azure",
+                "Oracle",
+                "SAP"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Cloud Administrator",
+                    "IT Manager",
+                    "Information Security Specialist"
+                ],
+                "international": [
+                    "Enterprise Architect",
+                    "Cloud Security Specialist"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹5–6 LPA",
+                    "mid_level": "₹10–14 LPA",
+                    "senior_level": "₹18–25 LPA"
+                },
+                "international": {
+                    "entry_level": "$60k–75k",
+                    "mid_level": "$100k–120k",
+                    "senior_level": "$150k+"
+                }
+            },
+            "future_scope": "Enterprise IT specialists are in demand globally as industries rely heavily on IT infrastructure."
+        },
+        {
+            "name": "M.Sc Data Science and Business Analysis",
+            "overview": "Specialization in analytics, big data, and business decision-making using machine learning and AI.",
+            "core_subjects": [
+                "Data Science",
+                "Machine Learning",
+                "Business Analytics",
+                "Big Data Tools",
+                "Statistics",
+                "Data Visualization"
+            ],
+            "skills_gained": [
+                "Data Analysis",
+                "Predictive Modeling",
+                "Business Insights",
+                "Visualization"
+            ],
+            "tools_and_technologies": [
+                "Python",
+                "R",
+                "Tableau",
+                "PowerBI",
+                "Spark"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Data Scientist",
+                    "Business Analyst",
+                    "AI Consultant"
+                ],
+                "international": [
+                    "Machine Learning Engineer",
+                    "Business Intelligence Analyst"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹6–8 LPA",
+                    "mid_level": "₹12–18 LPA",
+                    "senior_level": "₹25+ LPA"
+                },
+                "international": {
+                    "entry_level": "$70k–90k",
+                    "mid_level": "$120k–140k",
+                    "senior_level": "$170k+"
+                }
+            },
+            "future_scope": "One of the hottest fields today, with applications across finance, e-commerce, and healthcare."
+        },
+        {
+            "name": "B.Sc Artificial Intelligence and Machine Learning",
+            "overview": "Undergraduate program focusing on AI, neural networks, and ML models for automation and intelligent systems.",
+            "core_subjects": [
+                "Artificial Intelligence",
+                "Machine Learning",
+                "Deep Learning",
+                "Data Mining",
+                "Natural Language Processing"
+            ],
+            "skills_gained": [
+                "Model Building",
+                "Neural Networks",
+                "Data Preprocessing",
+                "AI Applications"
+            ],
+            "tools_and_technologies": [
+                "TensorFlow",
+                "PyTorch",
+                "Keras",
+                "Python",
+                "R"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "AI Engineer",
+                    "ML Developer",
+                    "Data Scientist"
+                ],
+                "international": [
+                    "AI Specialist",
+                    "Robotics Engineer"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹5–6 LPA",
+                    "mid_level": "₹10–15 LPA",
+                    "senior_level": "₹20+ LPA"
+                },
+                "international": {
+                    "entry_level": "$65k–85k",
+                    "mid_level": "$120k–140k",
+                    "senior_level": "$170k+"
+                }
+            },
+            "future_scope": "Demand for AI and ML is skyrocketing with industries automating workflows, using chatbots, and adopting AI models."
+        },
+        {
+            "name": "B.Sc Computer Science with Cyber Security",
+            "overview": "Focuses on cybersecurity concepts, network defense, and secure software development.",
+            "core_subjects": [
+                "Cybersecurity Fundamentals",
+                "Cryptography",
+                "Network Security",
+                "Ethical Hacking",
+                "Cloud Security"
+            ],
+            "skills_gained": [
+                "Threat Analysis",
+                "Cyber Defense",
+                "Incident Response",
+                "Secure Programming"
+            ],
+            "tools_and_technologies": [
+                "Kali Linux",
+                "Wireshark",
+                "Burp Suite",
+                "Nessus"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Cybersecurity Analyst",
+                    "Penetration Tester",
+                    "Security Consultant"
+                ],
+                "international": [
+                    "Cloud Security Engineer",
+                    "Incident Manager"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹4–5 LPA",
+                    "mid_level": "₹8–12 LPA",
+                    "senior_level": "₹18+ LPA"
+                },
+                "international": {
+                    "entry_level": "$55k–75k",
+                    "mid_level": "$100k–120k",
+                    "senior_level": "$160k+"
+                }
+            },
+            "future_scope": "Cybersecurity is among the top 5 fastest-growing careers globally due to rising cyber threats."
+        },
+        {
+            "name": "B.Sc Computer Science (Artificial Intelligence & Data Science)",
+            "overview": "A program combining AI techniques with data science for problem-solving and decision-making.",
+            "core_subjects": [
+                "AI Basics",
+                "Data Science",
+                "Machine Learning",
+                "Data Visualization",
+                "Predictive Analytics"
+            ],
+            "skills_gained": [
+                "AI Model Development",
+                "Data Analysis",
+                "Statistical Computing"
+            ],
+            "tools_and_technologies": [
+                "Python",
+                "Tableau",
+                "TensorFlow",
+                "PowerBI"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Data Scientist",
+                    "AI Analyst"
+                ],
+                "international": [
+                    "AI Consultant",
+                    "ML Engineer"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹5–6 LPA",
+                    "mid_level": "₹10–14 LPA",
+                    "senior_level": "₹20+ LPA"
+                },
+                "international": {
+                    "entry_level": "$65k–80k",
+                    "mid_level": "$110k–130k",
+                    "senior_level": "$160k+"
+                }
+            },
+            "future_scope": "AI & Data Science specialists are in high demand with cross-industry applications."
+        },
+        {
+            "name": "B.Sc Computer Science (Artificial Intelligence)",
+            "overview": "Specialized course on Artificial Intelligence covering algorithms, neural networks, and deep learning.",
+            "core_subjects": [
+                "AI Algorithms",
+                "Machine Learning",
+                "Neural Networks",
+                "Cognitive Systems"
+            ],
+            "skills_gained": [
+                "Problem-solving with AI",
+                "Neural Network Design",
+                "Automation Solutions"
+            ],
+            "tools_and_technologies": [
+                "PyTorch",
+                "Keras",
+                "OpenCV",
+                "TensorFlow"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "AI Engineer",
+                    "Automation Specialist"
+                ],
+                "international": [
+                    "Cognitive Scientist",
+                    "AI Researcher"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹5–7 LPA",
+                    "mid_level": "₹12–15 LPA",
+                    "senior_level": "₹22+ LPA"
+                },
+                "international": {
+                    "entry_level": "$70k–90k",
+                    "mid_level": "$120k–140k",
+                    "senior_level": "$170k+"
+                }
+            },
+            "future_scope": "AI-focused roles will expand with robotics, self-driving cars, and conversational AI."
+        },
+        {
+            "name": "B.Sc Computer Science (Data Science)",
+            "overview": "Focuses on extracting insights from structured and unstructured data using modern tools.",
+            "core_subjects": [
+                "Data Science",
+                "Big Data",
+                "Machine Learning",
+                "Statistical Analysis",
+                "Data Visualization"
+            ],
+            "skills_gained": [
+                "Data Cleaning",
+                "Predictive Modeling",
+                "Statistical Analysis"
+            ],
+            "tools_and_technologies": [
+                "R",
+                "Python",
+                "Hadoop",
+                "Tableau"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Data Analyst",
+                    "Business Analyst"
+                ],
+                "international": [
+                    "Data Scientist",
+                    "Data Engineer"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹5–6 LPA",
+                    "mid_level": "₹10–15 LPA",
+                    "senior_level": "₹22+ LPA"
+                },
+                "international": {
+                    "entry_level": "$65k–85k",
+                    "mid_level": "$120k–140k",
+                    "senior_level": "$170k+"
+                }
+            },
+            "future_scope": "Data Science is transforming industries; demand is surging for analysts and ML engineers."
+        },
+        {
+            "name": "B.Sc Data Science and Analytics",
+            "overview": "Concentrates on advanced analytics, predictive modeling, and decision support systems.",
+            "core_subjects": [
+                "Data Analytics",
+                "Business Statistics",
+                "Machine Learning",
+                "Predictive Modeling"
+            ],
+            "skills_gained": [
+                "Business Insights",
+                "Analytical Thinking",
+                "Decision Modeling"
+            ],
+            "tools_and_technologies": [
+                "Excel",
+                "Python",
+                "R",
+                "PowerBI"
+            ],
+            "career_opportunities": {
+                "india": [
+                    "Business Analyst",
+                    "Data Engineer"
+                ],
+                "international": [
+                    "Analytics Consultant",
+                    "Data Strategist"
+                ]
+            },
+            "salary_scope": {
+                "india": {
+                    "entry_level": "₹4–6 LPA",
+                    "mid_level": "₹10–14 LPA",
+                    "senior_level": "₹20+ LPA"
+                },
+                "international": {
+                    "entry_level": "$60k–80k",
+                    "mid_level": "$110k–130k",
+                    "senior_level": "$160k+"
+                }
+            },
+            "future_scope": "Analytics roles are growing as companies rely on data-driven decisions in almost every field."
+        }
+    ]
+}
