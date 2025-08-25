@@ -1,4 +1,4 @@
-# College Chatbot
+# RACAD-IO Chatbot
 
 An intelligent AI-powered chatbot for college information, built with Next.js and featuring a modern, immersive chat interface.
 
